@@ -2,7 +2,7 @@
 
 For my full CV check out my [LinkedIn](http://www.linkedin.com/in/christian-okoth)
 
-I'm currently on the market for work after layoffs at Cisco [😢](https://futurism.com/the-byte/cisco-layoff-ai-profit). If you're in the market for an engineer who is:
+I'm currently on the market for work after [layoffs at Cisco 😢](https://futurism.com/the-byte/cisco-layoff-ai-profit). If you're in the market for an engineer who is:
 
 send me an email at [christianokoth](mailto:christianokoth@duck.com)
 
